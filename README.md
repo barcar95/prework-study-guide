@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 This Prework Study Guide was created for boot camp students going through the Prework to help facilitate a plan of topic study. This study guide contains notes on HTML, CSS, Git, and JavaScript and provides a suggestion on what topic to study first. 
 
 ## Installation
